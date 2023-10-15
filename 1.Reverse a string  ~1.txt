@@ -1,0 +1,53 @@
+//Strings
+1.Reverse a string  ~1
+2.Replace all Spaces ~1
+3.Palindrome ~1
+4.Convert to Uppercase ~1
+5.Convert to lowercase ~1
+6.Compare 2 strings ~1
+7.Remove Adjacent Duplicates ~1
+8.Remove all occurance of a substring ~1
+9.Valid Palindrome II ~1
+10.Valid Anagram ~1
+11.Reverse Only Letters ~1
+12.Longest Common prefix ~1*
+13.print name 1000 times without loop ~1
+14.Count occuances in a string ~1
+15.Valid Parenthesis ~1
+16.Remove the same characters from two given strings ~1
+17.Remove duplicates from a string ~1
+18.2 strings are provided.. eliminate characters from 1st string which are present in 2nd.
+//Arrays
+19.Find Largest in an array ~1
+20.Find second largest and smallest in array ~1
+21.Check if the array is sorted or not ~1
+22.Remove duplicates in an interger array ~1
+23.Program to find numbers in the array whose sum is closest to zero ~1
+24.write the code to print angle between hour and minute hand for time 8:30 in a clock
+25. find how many instances of 5 consecutive zeros in a boolean array
+for example: 100000001000001 has 4 instances of 5 consecutive 0's
+26.print intersection element of two arrays
+27.Find any 3 consecutive similar numbers in an array
+28.WAP to display the common characters between two arrays.
+29.WAP to display the repeated characters and their count in an array.
+30.Program to find highest sum of any two signed integers from an array.
+31. Find reverse of a number.
+32.Sort an array which contains 0 and 1 in only 1 iteration.
+33.You are given array and you have to print the index where you find any combination of 3,1,2.
+Eg- [1 4 5 8 7 2 3 1 8 7]
+34.Given integer, find the sum of digits
+Eg- 22------> 2+2=4
+258----->2+5+8=15
+35.a. In which algorithm , minimum number of swaps are required.
+
+b. Match the algorithm with appropriate complexity.
+
+c. 2 arrays & their number of comparisions as t1 , t2 ..are provided.. using quick sort , find relation between t1 & t2.
+36.A string is given , if any character recurs , so eliminate it & print remaining string.
+37. 2 strings are provided.. eliminate characters from 1st string which are present in 2nd.
+38.2 sorted arrays are given - combine and create one sorted array (with or without duplication)
+39.write a programme to sort two different arrays then merge them together
+40.string rotation
+41.new array add even number and then odd
+42.superior 11
+43.All Sorting algorithms
